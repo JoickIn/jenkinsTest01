@@ -12,4 +12,8 @@ class TestJenkins:
     def test_03(self):
         print("three-test")
         assert 1
+        
+    def test_04(self):
+        print("four-test")
+        assert 0
 #——————————————————————————————————————————————————————————————————————————————————————————————————————————————————————#
